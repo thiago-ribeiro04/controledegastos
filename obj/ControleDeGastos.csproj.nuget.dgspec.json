@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj": {}
+    "C:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj": {}
   },
   "projects": {
-    "c:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj": {
+    "C:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj",
+        "projectUniqueName": "C:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj",
         "projectName": "ControleDeGastos",
-        "projectPath": "c:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj",
+        "projectPath": "C:\\MaxiProdTeste\\ControleDeGastos\\ControleDeGastos.csproj",
         "packagesPath": "C:\\Users\\Cilso\\.nuget\\packages\\",
-        "outputPath": "c:\\MaxiProdTeste\\ControleDeGastos\\obj\\",
+        "outputPath": "C:\\MaxiProdTeste\\ControleDeGastos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

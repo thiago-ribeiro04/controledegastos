@@ -12,3 +12,4 @@ c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\refint\ControleDeGastos.dll
 c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.pdb
 c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.genruntimeconfig.cache
 c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ref\ControleDeGastos.dll
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.sourcelink.json
