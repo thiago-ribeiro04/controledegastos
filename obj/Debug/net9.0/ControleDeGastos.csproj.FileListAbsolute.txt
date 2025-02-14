@@ -1,0 +1,14 @@
+c:\MaxiProdTeste\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.exe
+c:\MaxiProdTeste\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.deps.json
+c:\MaxiProdTeste\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.runtimeconfig.json
+c:\MaxiProdTeste\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.dll
+c:\MaxiProdTeste\ControleDeGastos\bin\Debug\net9.0\ControleDeGastos.pdb
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.GeneratedMSBuildEditorConfig.editorconfig
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.AssemblyInfoInputs.cache
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.AssemblyInfo.cs
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.csproj.CoreCompileInputs.cache
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.dll
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\refint\ControleDeGastos.dll
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.pdb
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ControleDeGastos.genruntimeconfig.cache
+c:\MaxiProdTeste\ControleDeGastos\obj\Debug\net9.0\ref\ControleDeGastos.dll
