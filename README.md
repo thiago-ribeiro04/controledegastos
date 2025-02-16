@@ -12,6 +12,4 @@ Este é um sistema para controle de gastos residenciais. Ele permite o cadastro 
 
 Para rodar o projeto localmente, siga as instruções abaixo:
 
-1. Clone o repositório:
-
-  https://github.com/thiago-ribeiro04/controledegastos.git
+https://github.com/thiago-ribeiro04/controledegastos.git
