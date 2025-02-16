@@ -14,4 +14,5 @@ Para rodar o projeto localmente, siga as instruções abaixo:
 
 1. Clone o repositório:
 
+  gh repo clone thiago-ribeiro04/controledegastos
    
