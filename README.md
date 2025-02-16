@@ -14,4 +14,4 @@ Para rodar o projeto localmente, siga as instruções abaixo:
 
 1. Clone o repositório:
 
-   git@github.com:thiago-ribeiro04/controledegastos.git
+   
