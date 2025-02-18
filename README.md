@@ -8,8 +8,6 @@ Este é um sistema para controle de gastos residenciais. Ele permite o cadastro 
 - Cadastro de Transações (criação e listagem).
 - Consulta de totais por pessoa e no geral.
 
-## Funcionalidades:
-
 Cadastro de pessoas: 
 
 Deverá ser implementado um cadastro contendo as funcionalidades básicas de gerenciamento: criação, deleção e listagem.
